@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lh35
-- 👀 I’m interested in Arquitecto Cloud
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m heidy rodriguez
+- 👀 I’m interested in Arquitectura Cloud
+- 🌱 I’m currently learning arquitectura de Azure
+
+- 📫 How to reach me heidymarje@gmail.com
 
 <!---
 lh35/lh35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
